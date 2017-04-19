@@ -1,0 +1,10 @@
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\bin\Release\ClientChat.exe.config
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\bin\Release\ClientChat.exe
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\bin\Release\ClientChat.pdb
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Release\ClientChat.Form1.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Release\ClientChat.Form2.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Release\ClientChat.Properties.Resources.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Release\ClientChat.csproj.GenerateResource.Cache
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Release\ClientChat.exe
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Release\ClientChat.pdb
+C:\Users\Maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Release\ClientChat.csprojResolveAssemblyReference.cache

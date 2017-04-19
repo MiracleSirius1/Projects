@@ -1,0 +1,9 @@
+c:\users\maxim\documents\visual studio 2013\Projects\Death Note\Death Note\bin\Debug\Death Note.exe.config
+c:\users\maxim\documents\visual studio 2013\Projects\Death Note\Death Note\bin\Debug\Death Note.exe
+c:\users\maxim\documents\visual studio 2013\Projects\Death Note\Death Note\bin\Debug\Death Note.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Debug\Death_Note.Form1.resources
+c:\users\maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Debug\Death_Note.Properties.Resources.resources
+c:\users\maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Debug\Death Note.csproj.GenerateResource.Cache
+c:\users\maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Debug\Death Note.exe
+c:\users\maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Debug\Death Note.pdb
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Debug\Death Note.csprojResolveAssemblyReference.cache

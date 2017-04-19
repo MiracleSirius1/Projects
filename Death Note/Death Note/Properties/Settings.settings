@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Death_Note.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FormBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">InactiveCaptionText</Value>
+    </Setting>
+    <Setting Name="ColorText" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="TextFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Consolas, 14.25pt, style=Italic</Value>
+    </Setting>
+    <Setting Name="TextBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

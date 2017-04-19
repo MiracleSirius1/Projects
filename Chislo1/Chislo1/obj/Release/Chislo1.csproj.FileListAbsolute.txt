@@ -1,0 +1,10 @@
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\obj\Release\Chislo1.Form2.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\obj\Release\Chislo1.Form1.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\obj\Release\Chislo1.Properties.Resources.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\obj\Release\Chislo1.csproj.GenerateResource.Cache
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\bin\Release\Chislo.exe.config
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\bin\Release\Chislo.exe
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\bin\Release\Chislo.pdb
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\obj\Release\Chislo.exe
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\obj\Release\Chislo.pdb
+C:\Users\Maxim\documents\visual studio 2013\Projects\Chislo1\Chislo1\obj\Release\Chislo1.csprojResolveAssemblyReference.cache

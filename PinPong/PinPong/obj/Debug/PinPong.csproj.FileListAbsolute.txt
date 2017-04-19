@@ -1,0 +1,9 @@
+c:\users\maxim\documents\visual studio 2013\Projects\PinPong\PinPong\bin\Debug\PinPong.exe.config
+C:\Users\Maxim\Documents\Visual Studio 2013\Projects\PinPong\PinPong\bin\Debug\PinPong.exe
+C:\Users\Maxim\Documents\Visual Studio 2013\Projects\PinPong\PinPong\bin\Debug\PinPong.pdb
+C:\Users\Maxim\Documents\Visual Studio 2013\Projects\PinPong\PinPong\obj\Debug\PinPong.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Documents\Visual Studio 2013\Projects\PinPong\PinPong\obj\Debug\PinPong.Form1.resources
+C:\Users\Maxim\Documents\Visual Studio 2013\Projects\PinPong\PinPong\obj\Debug\PinPong.Properties.Resources.resources
+C:\Users\Maxim\Documents\Visual Studio 2013\Projects\PinPong\PinPong\obj\Debug\PinPong.csproj.GenerateResource.Cache
+C:\Users\Maxim\Documents\Visual Studio 2013\Projects\PinPong\PinPong\obj\Debug\PinPong.exe
+C:\Users\Maxim\Documents\Visual Studio 2013\Projects\PinPong\PinPong\obj\Debug\PinPong.pdb

@@ -1,0 +1,9 @@
+c:\users\maxim\documents\visual studio 2013\Projects\MultiTimer\MultiTimer\bin\Debug\MultiTimer.exe.config
+c:\users\maxim\documents\visual studio 2013\Projects\MultiTimer\MultiTimer\obj\Debug\MultiTimer.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2013\Projects\MultiTimer\MultiTimer\obj\Debug\MultiTimer.Form1.resources
+c:\users\maxim\documents\visual studio 2013\Projects\MultiTimer\MultiTimer\obj\Debug\MultiTimer.Properties.Resources.resources
+c:\users\maxim\documents\visual studio 2013\Projects\MultiTimer\MultiTimer\obj\Debug\MultiTimer.csproj.GenerateResource.Cache
+c:\users\maxim\documents\visual studio 2013\Projects\MultiTimer\MultiTimer\bin\Debug\MultiTimer.exe
+c:\users\maxim\documents\visual studio 2013\Projects\MultiTimer\MultiTimer\bin\Debug\MultiTimer.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\MultiTimer\MultiTimer\obj\Debug\MultiTimer.exe
+c:\users\maxim\documents\visual studio 2013\Projects\MultiTimer\MultiTimer\obj\Debug\MultiTimer.pdb

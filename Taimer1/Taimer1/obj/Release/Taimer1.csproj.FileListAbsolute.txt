@@ -1,0 +1,9 @@
+C:\Users\Maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Release\Taimer1.Form1.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Release\Taimer1.csproj.GenerateResource.Cache
+C:\Users\Maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\bin\Release\Helper.exe.config
+C:\Users\Maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\bin\Release\Helper.exe
+C:\Users\Maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\bin\Release\Helper.pdb
+C:\Users\Maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Release\Helper.Properties.Resources.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Release\Helper.exe
+C:\Users\Maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Release\Helper.pdb
+C:\Users\Maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Release\Taimer1.csprojResolveAssemblyReference.cache

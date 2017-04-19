@@ -1,0 +1,6 @@
+﻿1>------ Сборка начата: проект: Server, Конфигурация: Release Win32 ------
+1>  main.cpp
+1>  Создание кода
+1>  Создание кода завершено
+1>  Server.vcxproj -> C:\Users\Maxim\documents\visual studio 2013\Projects\Server\Release\Server.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========

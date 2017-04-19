@@ -1,0 +1,9 @@
+c:\users\maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\bin\Debug\Taimer1.exe.config
+c:\users\maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\bin\Debug\Taimer1.exe
+c:\users\maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\bin\Debug\Taimer1.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Debug\Taimer1.Form1.resources
+c:\users\maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Debug\Taimer1.Properties.Resources.resources
+c:\users\maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Debug\Taimer1.csproj.GenerateResource.Cache
+c:\users\maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Debug\Taimer1.exe
+c:\users\maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Debug\Taimer1.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\Taimer1\Taimer1\obj\Debug\Taimer1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\bin\Release\Sticky Notes.exe.config
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\bin\Release\Sticky Notes.exe
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\bin\Release\Sticky Notes.pdb
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Release\Death Note.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Release\Death_Note.Form1.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Release\Death_Note.Properties.Resources.resources
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Release\Death Note.csproj.GenerateResource.Cache
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Release\Sticky Notes.exe
+C:\Users\Maxim\documents\visual studio 2013\Projects\Death Note\Death Note\obj\Release\Sticky Notes.pdb

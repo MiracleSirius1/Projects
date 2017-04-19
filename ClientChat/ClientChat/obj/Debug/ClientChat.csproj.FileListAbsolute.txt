@@ -1,0 +1,10 @@
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Debug\ClientChat.Form1.resources
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\ClientChat\ClientChat\obj\Debug\ClientChat.Form2.resources
